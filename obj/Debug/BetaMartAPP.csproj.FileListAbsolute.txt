@@ -1,0 +1,11 @@
+C:\Users\evan\source\repos\BetaMartAPP\bin\Debug\BetaMartAPP.exe.config
+C:\Users\evan\source\repos\BetaMartAPP\bin\Debug\BetaMartAPP.exe
+C:\Users\evan\source\repos\BetaMartAPP\bin\Debug\BetaMartAPP.pdb
+C:\Users\evan\source\repos\BetaMartAPP\obj\Debug\BetaMartAPP.csproj.AssemblyReference.cache
+C:\Users\evan\source\repos\BetaMartAPP\obj\Debug\BetaMartAPP.Form1.resources
+C:\Users\evan\source\repos\BetaMartAPP\obj\Debug\BetaMartAPP.Form2.resources
+C:\Users\evan\source\repos\BetaMartAPP\obj\Debug\BetaMartAPP.Properties.Resources.resources
+C:\Users\evan\source\repos\BetaMartAPP\obj\Debug\BetaMartAPP.csproj.GenerateResource.cache
+C:\Users\evan\source\repos\BetaMartAPP\obj\Debug\BetaMartAPP.csproj.CoreCompileInputs.cache
+C:\Users\evan\source\repos\BetaMartAPP\obj\Debug\BetaMartAPP.exe
+C:\Users\evan\source\repos\BetaMartAPP\obj\Debug\BetaMartAPP.pdb
